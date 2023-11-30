@@ -1,0 +1,31 @@
+header {
+    background-color:purple;
+    color: white;
+    
+}
+main   {
+    background-color:lightpink;
+    color: black;
+    padding: 1em;
+}
+footer {
+    background-color:lightgray;
+    color: black;
+    padding: 1em;
+}
+section {
+    background-color:lightblue;
+    color: black;
+    padding: 1em;
+}
+nav {
+    background-color:lightslategray;
+    color: black;
+    padding: 1em;
+}
+header, main, footer,section,nav {
+    padding: 1em;
+    margin: 1em;
+    border: 2px solid black;
+    font-size: 2rem;
+}
